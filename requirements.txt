@@ -1,0 +1,17 @@
+#dataclasses>=0.8
+dataclasses-json>=0.5.3
+flowpipe>=0.9.0
+jsonpickle>=2.0.0
+pandas>=1.1.5
+scikit-learn>=0.24.1
+essential-generators>=1.0
+dowhy>=0.9.1
+
+# Plots
+matplotlib==3.4.2
+seaborn==0.11.1
+
+# Notebook
+PyYAML==5.4.1
+jupyter==1.0.0
+numpy==1.21.1
